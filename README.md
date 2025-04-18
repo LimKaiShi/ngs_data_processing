@@ -36,7 +36,7 @@ The folder structure should look like this
 |:--------------|:-------------------------------------------------------------------       |
 | Conda |https://www.10xgenomics.com/support/software/cell-ranger-arc/latest](https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html        |
 | Miniconda|https://support.10xgenomics.com/single-cell-atac/software/downloads/latest](https://www.anaconda.com/docs/getting-started/miniconda/install |
-| Mamba   |https://github.com/ncbi/sra-tools/wiki/01.-Downloading-SRA-Toolkit  ](https://mamba.readthedocs.io/en/latest/installation/mamba-installation.html       |
+| Mamba   |https://mamba.readthedocs.io/en/latest/installation/mamba-installation.html       |
 
 Personally I would prefer using mamba due to easy and lighter installation
 
