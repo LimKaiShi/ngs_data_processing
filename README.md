@@ -78,10 +78,11 @@ After the code run, any output or error will be shown in the log files. Can view
 tail logs/cram_to_fastq/{sample}.logs
 ```
 
-## Dependencies
+## Dependencies and reference file
 | Tools |Link                                                                       |
 |:--------------|:-------------------------------------------------------------------       |
 | gatk       | https://gatk.broadinstitute.org/hc/en-us/articles/360036194592-Getting-started-with-GATK4
 | htslib|http://www.htslib.org/download/ |
+| hg38 fasta | https://ddbj.nig.ac.jp/public/public-human-genomes/GRCh38/fasta/ |
 
 
